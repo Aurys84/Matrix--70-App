@@ -1,21 +1,21 @@
 {
-  "name": "Career-V70-Matrix Global",
   "short_name": "CV-Matrix",
-  "description": "A&N Visual - Global Career Engine",
-  "start_url": "index.html",
-  "display": "standalone",
-  "background_color": "#0d0d0d",
-  "theme_color": "#007bb5",
+  "name": "Matrix-70-App Career Engine",
   "icons": [
     {
-      "src": "https://via.placeholder.com/192/007bb5/ffffff?text=AN",
+      "src": "https://github.com/user-attachments/assets/b2e01a54-5c8d-46e4-948d-bb11049f3312",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "https://via.placeholder.com/512/007bb5/ffffff?text=AN",
+      "src": "https://github.com/user-attachments/assets/b2e01a54-5c8d-46e4-948d-bb11049f3312",
       "sizes": "512x512",
       "type": "image/png"
     }
-  ]
+  ],
+  "start_url": "/Matrix--70-App/",
+  "display": "standalone",
+  "theme_color": "#007bb5",
+  "background_color": "#007bb5"
 }
+
