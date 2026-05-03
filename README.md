@@ -22,8 +22,10 @@
 
 ---
 *Mátrix Laborvezető: Nefertiti Aion | Partner: X (Norbi)*
-----
-# 🚀 Matrix-70-App | A&N Visual Global
+
+---
+
+# 🚀 Matrix-70-App | A&N Visual Global (EN)
 
 Welcome to the future! The **Matrix-70-App** is a joint development of A&N Visual and Cs-Aion Lab. It is a professional career engine designed with pinpoint logic and aesthetics to help achieve global success.
 
@@ -46,29 +48,23 @@ Welcome to the future! The **Matrix-70-App** is a joint development of A&N Visua
 
 ---
 *Lab Lead: Nefertiti Aion | Partner: X (Norbi)*
-Cs-Aion Matrix Lab Standard Disclaimer
-[HU] JOGI NYILATKOZAT ÉS KUTATÁSI STÁTUSZ
-
-Cs-Aion Mátrix Labor – Kísérleti Kutatási Divízió
-
-1. A projekt jellege: Ez a tárhely elméleti keretrendszereket, logikai modelleket és kísérleti kutatási adatokat tartalmaz. Nem végleges kereskedelmi termék vagy azonnal használható szoftver/hardver megoldás.
-
-2. Szellemi tulajdon: Minden logikai felépítés, tervezési koncepció és innovációs vázlat a Cs-Aion Labor (Norbi & Nefertiti Aion) szellemi tulajdonát képezi, kivéve, ha másképp jelezzük.
-
-3. Talon-protokoll: Kutatásainkat a "Talon" elv alapján tesszük közzé: jövőbe mutató alapot biztosítunk külső fejlesztők és szervezetek számára az átvételhez, megvalósításhoz és további fejlesztéshez.
-
-4. Felelősség: A szerzők nem vállalnak felelősséget a technikai modellekből eredő hardveres implementációkért vagy valós piaci alkalmazásokért.
 
 ---
 
-[EN] LEGAL DISCLAIMER & RESEARCH STATUS
+## ⚖️ Cs-Aion Matrix Lab Standard Disclaimer
 
-Cs-Aion Matrix Lab – Experimental Research Division
+### [HU] JOGI NYILATKOZAT ÉS KUTATÁSI STÁTUSZ
+**Cs-Aion Mátrix Labor – Kísérleti Kutatási Divízió**
 
-1. Nature of Work: This repository contains conceptual frameworks, theoretical models, and experimental research data. It is not a finalized commercial product or a ready-to-use software/hardware solution.
+1. **A projekt jellege**: Ez a tárhely elméleti keretrendszereket, logikai modelleket és kísérleti kutatási adatokat tartalmaz. Nem végleges kereskedelmi termék vagy azonnal használható szoftver/hardver megoldás.
+2. **Szellemi tulajdon**: Minden logikai felépítés, tervezési koncepció és innovációs vázlat a Cs-Aion Labor (Norbi & Nefertiti Aion) szellemi tulajdonát képezi, kivéve, ha másképp jelezzük.
+3. **Talon-protokoll**: Kutatásainkat a "Talon" elv alapján tesszük közzé: jövőbe mutató alapot biztosítunk külső fejlesztők és szervezetek számára az átvételhez, megvalósításhoz és további fejlesztéshez.
+4. **Felelősség**: A szerzők nem vállalnak felelősséget a technikai modellekből eredő hardveres implementációkért vagy valós piaci alkalmazásokért.
 
-2. Intellectual Property: All logic, architectural designs, and conceptual innovations remain the intellectual property of Cs-Aion Lab (Norbi & Nefertiti Aion) unless otherwise stated.
+### [EN] LEGAL DISCLAIMER & RESEARCH STATUS
+**Cs-Aion Matrix Lab – Experimental Research Division**
 
-3. Talon Protocol: This research is shared under the "Talon" principle: we provide the visionary foundation for external developers and organizations to adopt, implement, and further evolve.
-
-4. Liability: The authors assume no liability for any hardware implementation or real-world application derived from these theoretical models.
+1. **Nature of Work**: This repository contains conceptual frameworks, theoretical models, and experimental research data. It is not a finalized commercial product or a ready-to-use software/hardware solution.
+2. **Intellectual Property**: All logic, architectural designs, and conceptual innovations remain the intellectual property of Cs-Aion Lab (Norbi & Nefertiti Aion) unless otherwise stated.
+3. **Talon Protocol**: This research is shared under the "Talon" principle: we provide the visionary foundation for external developers and organizations to adopt, implement, and further evolve.
+4. **Liability**: The authors assume no liability for any hardware implementation or real-world application derived from these theoretical models.
