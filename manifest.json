@@ -1,6 +1,6 @@
 {
-  "short_name": "CV-Matrix",
-  "name": "Matrix-70-App Career Engine",
+  "short_name": "CVMatrix",
+  "name": "Cv-Matrix",
   "icons": [
     {
       "src": "https://github.com/user-attachments/assets/b2e01a54-5c8d-46e4-948d-bb11049f3312",
@@ -25,5 +25,26 @@
   "display_override": [
     "window-controls-overlay"
   ],
-  "scope": "/"
+  "scope": "/",
+  "categories": [
+    "business",
+    "education",
+    "lifestyle",
+    "news",
+    "personalization"
+  ],
+  "shortcuts": [
+    {
+      "name": "",
+      "url": "",
+      "description": ""
+    }
+  ],
+  "related_applications": [
+    {
+      "platform": "play",
+      "url": "",
+      "id": ""
+    }
+  ]
 }
