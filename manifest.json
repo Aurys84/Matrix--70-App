@@ -46,5 +46,14 @@
       "url": "",
       "id": ""
     }
-  ]
+  ],
+  "share_target": {
+    "method": "GET",
+    "action": "/",
+    "params": {
+      "title": "Title",
+      "text": "Text",
+      "url": "Url"
+    }
+  }
 }
