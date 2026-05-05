@@ -16,6 +16,7 @@
   "start_url": "/Matrix--70-App/",
   "display": "standalone",
   "theme_color": "#007bb5",
-  "background_color": "#007bb5"
+  "background_color": "#007bb5",
+  "id": "Cv70",
+  "description": "\"Professional multi-language CV generator with customizable templates and smart content suggestions.\"\n(Magyarul: Professzionális többnyelvű CV-generátor testreszabható sablonokkal és intelligens tartalmi javaslatokkal.)"
 }
-
