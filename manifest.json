@@ -40,13 +40,6 @@
       "description": ""
     }
   ],
-  "related_applications": [
-    {
-      "platform": "play",
-      "url": "",
-      "id": ""
-    }
-  ],
   "share_target": {
     "method": "GET",
     "action": "/",
@@ -55,5 +48,6 @@
       "text": "Text",
       "url": "Url"
     }
-  }
+  },
+  "prefer_related_applications": true
 }
