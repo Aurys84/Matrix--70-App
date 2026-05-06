@@ -1,20 +1,105 @@
 {
-  "name": "Cv-Matrix",
+
   "short_name": "CVMatrix",
-  "start_url": "./index.html",
-  "display": "standalone",
-  "background_color": "#007bb5",
-  "theme_color": "#007bb5",
+
+  "name": "Cv-Matrix",
+
   "icons": [
+
     {
-      "src": "store_icon.png",
+
+      "src": "https://github.com/user-attachments/assets/b2e01a54-5c8d-46e4-948d-bb11049f3312",
+
       "sizes": "192x192",
+
       "type": "image/png"
+
     },
+
     {
-      "src": "store_icon.png",
-      "sizes": "512x512",
+
+      "src": "https://github.com/user-attachments/assets/b2e01a54-5c8d-46e4-948d-bb11049f3312",
+
+      "sizes": "1356x1540",
+
       "type": "image/png"
+
     }
-  ]
+
+  ],
+
+  "start_url": "/Matrix--70-App/",
+
+  "display": "standalone",
+
+  "theme_color": "#007bb5",
+
+  "background_color": "#007bb5",
+
+  "id": "Cv70",
+
+  "description": "\"Professional multi-language CV generator with customizable templates and smart content suggestions.\"\n(Magyarul: Professzionális többnyelvű CV-generátor testreszabható sablonokkal és intelligens tartalmi javaslatokkal.)",
+
+  "dir": "auto",
+
+  "lang": "hu",
+
+  "orientation": "natural",
+
+  "display_override": [
+
+    "window-controls-overlay"
+
+  ],
+
+  "scope": "/",
+
+  "categories": [
+
+    "business",
+
+    "education",
+
+    "lifestyle",
+
+    "news",
+
+    "personalization"
+
+  ],
+
+  "shortcuts": [
+
+    {
+
+      "name": "",
+
+      "url": "",
+
+      "description": ""
+
+    }
+
+  ],
+
+  "share_target": {
+
+    "method": "GET",
+
+    "action": "/",
+
+    "params": {
+
+      "title": "Title",
+
+      "text": "Text",
+
+      "url": "Url"
+
+    }
+
+  },
+
+  "prefer_related_applications": true
+
 }
