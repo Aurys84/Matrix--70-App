@@ -1,12 +1,6 @@
 {
-
   "short_name": "CVMatrix",
-
   "name": "Cv-Matrix",
-
-  "icons": [
-
-   "icons": [
   "icons": [
     {
       "src": "./store_icon.png",
@@ -21,79 +15,21 @@
       "purpose": "any"
     }
   ],
-
   "start_url": "/Matrix--70-App/",
-
   "display": "standalone",
-
   "theme_color": "#007bb5",
-
   "background_color": "#007bb5",
-
-  "id": "Cv70",
-
-  "description": "\"Professional multi-language CV generator with customizable templates and smart content suggestions.\"\n(Magyarul: Professzionális többnyelvű CV-generátor testreszabható sablonokkal és intelligens tartalmi javaslatokkal.)",
-
+  "id": "Cv70-Final-Aion",
+  "description": "Professional multi-language CV generator with customizable templates.",
   "dir": "auto",
-
   "lang": "hu",
-
   "orientation": "natural",
-
+  "scope": "/Matrix--70-App/",
   "display_override": [
-
     "window-controls-overlay"
-
   ],
-
-  "scope": "/",
-
   "categories": [
-
     "business",
-
-    "education",
-
-    "lifestyle",
-
-    "news",
-
-    "personalization"
-
-  ],
-
-  "shortcuts": [
-
-    {
-
-      "name": "",
-
-      "url": "",
-
-      "description": ""
-
-    }
-
-  ],
-
-  "share_target": {
-
-    "method": "GET",
-
-    "action": "/",
-
-    "params": {
-
-      "title": "Title",
-
-      "text": "Text",
-
-      "url": "Url"
-
-    }
-
-  },
-
-  "prefer_related_applications": true
-
+    "education"
+  ]
 }
