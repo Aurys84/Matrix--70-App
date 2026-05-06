@@ -1,41 +1,20 @@
 {
-  "short_name": "CVMatrix",
   "name": "Cv-Matrix",
+  "short_name": "CVMatrix",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#007bb5",
+  "theme_color": "#007bb5",
   "icons": [
     {
       "src": "store_icon.png",
-      "sizes": "1024x1024",
-      "type": "image/png",
-      "purpose": "any"
+      "sizes": "192x192",
+      "type": "image/png"
     },
     {
       "src": "store_icon.png",
       "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "maskable"
-    },
-    {
-      "src": "store_icon.png",
-      "sizes": "192x192",
-      "type": "image/png",
-      "purpose": "any"
+      "type": "image/png"
     }
-  ],
-  "start_url": "./index.html",
-  "display": "standalone",
-  "theme_color": "#007bb5",
-  "background_color": "#007bb5",
-  "id": "Cv70-Aion-V2",
-  "description": "Professional multi-language CV generator",
-  "dir": "auto",
-  "lang": "hu",
-  "orientation": "natural",
-  "scope": "/Matrix--70-App/",
-  "display_override": [
-    "window-controls-overlay"
-  ],
-  "categories": [
-    "business",
-    "education"
   ]
 }
