@@ -352,13 +352,22 @@ const summariesDB = {
             b.onclick = () => { document.documentElement.style.setProperty('--main-color', c); updatePreview(); };
             document.getElementById('color-picker').appendChild(b);
         });
-        for(let i=1; i<=10; i++) {
+     for(let i=1; i<=10; i++) {
             let b = document.createElement('button'); b.className = 'style-btn'; b.innerText = i;
             b.onclick = () => { document.body.className = 'style-' + i; updatePreview(); };
             document.getElementById('style-picker').appendChild(b);
         }
         refreshMenu();
         updateInterface();
+
+        // MÁTRIX OFFLINE PAJZS AKTIVÁLÁSA
+        if ('serviceWorker' in navigator) {
+            window.addEventListener('load', () => {
+                navigator.serviceWorker.register('./service-worker.js')
+                    .then(reg => console.log('Mátrix Páncél aktív!', reg))
+                    .catch(err => console.log('Hiba a páncélozásnál:', err));
+            });
+        }
     };
 </script>
 </body>
